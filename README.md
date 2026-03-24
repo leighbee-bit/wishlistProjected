@@ -10,6 +10,7 @@ Android UI development fundamentals.
 - **Platform**: Android
 - **IDE**: Android Studio
 - **UI**: Android XML Layouts
+- **Build System**: Gradle
 
 ## Features
 - Create a personal wishlist
